@@ -1,14 +1,19 @@
 .Container__Main {
-    height: 60vh;
-    background-color: white;
-    width: 20vw;
-    border-radius: 10px;
+  height: 60vh;
+  background-color: white;
+  width: 30vw;
+  border-radius: 10px;
 }
 .Container__Image {
-    height: 30%;
-    background-color: black;
-    border-radius: 10px 10px 0px 0px;
-    background-image: url(../../src/images/illustration-hero.svg);
-    background-size: cover;
-    background-position: top;
+  height: 30%;
+  background-color: black;
+  border-radius: 10px 10px 0px 0px;
+  background-image: url(../../src/images/illustration-hero.svg);
+  background-size: cover;
+  background-position: top;
+}
+
+.Container__Content {
+  font-weight: 500;
+  padding: 15px 40px;
 }

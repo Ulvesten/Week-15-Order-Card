@@ -1,0 +1,17 @@
+.Order__Summary p {
+  padding: 0px 24px;
+  color: #7280a7;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+.Order__Summary h1 {
+  color: #1f2f56;
+  padding: 20px 0px;
+  font-size: 22px;
+  font-weight: 900;
+  text-align: center;
+}
