@@ -1,4 +1,5 @@
 import React from "react";
+import Buttons from "../Buttons/Buttons";
 import OrderSum from "../OrderSum/OrderSum";
 import Plan from "../Plan/Plan";
 import "./Container.css";
@@ -10,7 +11,7 @@ export const Container = () => {
       <div className="Container__Content">
         <OrderSum />
         <Plan />
-        <div className="Container__Plan"></div>
+        <Buttons />
       </div>
     </div>
   );
